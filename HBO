@@ -199,9 +199,9 @@ https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd|User-Agent="Mozilla
 #EXTVLCOPT:network-caching=1000
 https://3.ultimate2019.com/stream/hls/971|User-Agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Movies",HBO XTREME HD
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Movies",Hbo Extrtem 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php"
+#EXTVLCOPT:http-referrer=https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php
 https://mx1.gt-app.com/16/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdRaXkOpHghTvM/fTrgOpYKsP
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Movies", HBO SIGNATURE
