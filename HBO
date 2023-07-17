@@ -836,13 +836,13 @@ https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd||User-Agent="Mozill
 #KODIPROP:inputstream.adaptive.license_key=fe49940345dd5e40be8f6c163a088aff:464172bbc422938df76633bf3a8a2b54
 https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="Sports",GolTV 514
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="Sports",GOLTV 514
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/xml+dash
 https://3.ultimate2019.com/stream/hls/514|User-Agent="Dalvik/2.1.0 (Linux; U; Android 11; TECNO KG5j Build/RP1A.200720.011)"
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="Sports",Gol TV 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/goltv.webp" group-title="Sports",GOLTV
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream=inputstream.ffmpegdirect
