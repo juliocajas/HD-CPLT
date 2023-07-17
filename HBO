@@ -201,7 +201,7 @@ https://3.ultimate2019.com/stream/hls/971|User-Agent="Dalvik/2.1.0 (Linux; U; An
 
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Movies",Hbo Extrtem 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer="https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP"
+#EXTVLCOPT:http-referrer="https://mx1.gt-app.com/"
 https://mx1.gt-app.com/16/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdRaXkOpHghTvM/fTrgOpYKsP
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/hbosig.webp" group-title="Movies", HBO SIGNATURE
